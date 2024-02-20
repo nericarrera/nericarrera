@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nericarrera
 - 👀 I’m interested in ... programar todo el dia wee
-- 🌱 I’m currently learning ... en henry   
+- 🌱 I’m currently learning ... en youtube
  💞️ I’m looking to collaborate on ... donde se pueda
 - 📫 How to reach me ...nericarrera@yahoo.com.ar
 <!---
