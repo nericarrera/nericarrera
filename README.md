@@ -18,6 +18,6 @@
 
 - 🚀 **Proyectos destacados:**  
   - **Daysport:** Tienda de ropa deportiva en línea desarrollada con HTML, CSS, JavaScript y Bootstrap. (En proceso)
-  - **Las Bravas:** Tienda de jeans para mujer, enfocada en un diseño responsive y funcional.  
+  - **Las Bravas:** Tienda de jeans para mujer, enfocada en un diseño responsive y funcional. (En proceso)
 
 <!------>
