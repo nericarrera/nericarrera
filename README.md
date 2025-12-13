@@ -17,7 +17,7 @@
   - **Portfolio:** https://nericarrera.github.io/porfolio/
 
 - 🚀 **Proyectos destacados:**  
-  - **Daysport:** Tienda de ropa deportiva en línea desarrollada con HTML, CSS, JavaScript. (En proceso) (Migrando el trabajo a React)
+  - **Daysport:** Tienda de ropa deportiva en línea desarrollada con REACT, TAILWIND, NEST.JS, NEXT.JS, AUTH, PRISMA, POSTGRESQL, DESPLOY(RAILWAY - BACKEND Y FRONTEND), CDN (CLOUDINARY),  . (80% EN PROCESO DE TERMINAR - AJUSTANDO ENVIOS Y FRONTEND)
   - **link**:https://www.daysport.com.ar 
 
   - **Las Bravas:** Tienda de jeans para mujer, enfocada en un diseño responsive y funcional. (En proceso) (Migrando a React)
