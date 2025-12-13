@@ -18,7 +18,7 @@
 
 - 🚀 **Proyectos destacados:**  
   - **Daysport:** Tienda de ropa deportiva en línea desarrollada con HTML, CSS, JavaScript. (En proceso) (Migrando el trabajo a React)
-  - **link**:https://nericarrera.github.io/web-en-desarrollo-daysport.github.io/ 
+  - **link**:https://www.daysport.com.ar 
 
   - **Las Bravas:** Tienda de jeans para mujer, enfocada en un diseño responsive y funcional. (En proceso) (Migrando a React)
   - por el momento sin link para visualizar.
