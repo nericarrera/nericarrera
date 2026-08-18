@@ -1,7 +1,7 @@
-- 👋 ¡Hola! Soy **@nericarrera**,  desarrollador web con experiencia en la creación de soluciones digitales.
+- 👋 ¡Hola! Soy **@nericarrera**,  desarrollador web Frontend y backend con experiencia en la creación de soluciones digitales.
   
 - 👀 **Intereses:**  
-  Me apasiona el desarrollo web, especialmente el **frontend**, donde utilizo tecnologías como **HTML, CSS, JavaScript, Typescript, React, Vite, Next.js, tailwind** para crear interfaces de usuario atractivas y funcionales. También tengo conocimientos en **SQL** para la gestión de bases de datos y experiencia en el uso de **GitHub** para el control de versiones y colaboración en equipo.
+  Me apasiona el desarrollo web, especialmente el **frontend**, donde utilizo tecnologías como **JavaScript, Typescript, React, Vite, Next.js, tailwind** para crear interfaces de usuario atractivas y funcionales. También tengo conocimientos en **Node.js SQL, Prisma, Nest.js, Next.js, Bycript** para la gestión de bases de datos y experiencia en el uso de **GitHub** para el control de versiones y colaboración en equipo.
 
 - 🌱 **Actualmente estoy aprendiendo:**  
   Estoy ampliando mis conocimientos en desarrollo **backend** con **Node.js** y mejorando mis habilidades en **Typescript**. Además, estoy estudiando en la **Universidad del Oeste** para fortalecer mi formación académica en el campo de la programación.
@@ -17,9 +17,7 @@
   - **Portfolio:** https://nericarrera.github.io/porfolio/
 
 - 🚀 **Proyectos destacados:**  
-  - **Daysport:** Tienda de ropa deportiva en línea desarrollada con REACT, TAILWIND, NEST.JS, NEXT.JS, AUTH, PRISMA, POSTGRESQL, DESPLOY(RAILWAY - BACKEND Y FRONTEND), CDN (CLOUDINARY),  . (80% EN PROCESO DE TERMINAR - AJUSTANDO ENVIOS Y FRONTEND)
+  - **Daysport:** Tienda de ropa deportiva en línea desarrollada con REACT, TAILWIND, NEST.JS, NEXT.JS, AUTH, PRISMA, POSTGRESQL, DESPLOY(RAILWAY - BACKEND Y FRONTEND), CDN (CLOUDINARY),  . (100% TERMINAda - CON SISTEMA PROPIO DE ENVIOS, PANEL DE CONTROL ADMIN PARA GESTINAR TODO, PAGOS, TICKETS DE CAMBIOS, ENVIOS, EMAIL, WHATSAPP, RANKING DE VENTAS.)
   - **link**:https://www.daysport.com.ar 
 
-  - **Las Bravas:** Tienda de jeans para mujer, enfocada en un diseño responsive y funcional. (En proceso) (Migrando a React)
-  - por el momento sin link para visualizar.
 <!------>
