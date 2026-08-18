@@ -14,10 +14,10 @@
   - **Email:** nericarrera@yahoo.com.ar
   - **Email alternativo:** nericarrera1825@gmail.com
   - **LinkedIn:** [Neri Carrera](https://www.linkedin.com/in/nericarrera/)  
-  - **Portfolio:** https://nericarrera.github.io/porfolio/
+  - **Portfolio:** https://porfolio-react-roan.vercel.app/
 
 - 🚀 **Proyectos destacados:**  
-  - **Daysport:** Tienda de ropa deportiva en línea desarrollada con REACT, TAILWIND, NEST.JS, NEXT.JS, AUTH, PRISMA, POSTGRESQL, DESPLOY(RAILWAY - BACKEND Y FRONTEND), CDN (CLOUDINARY),  . (100% TERMINAda - CON SISTEMA PROPIO DE ENVIOS, PANEL DE CONTROL ADMIN PARA GESTINAR TODO, PAGOS, TICKETS DE CAMBIOS, ENVIOS, EMAIL, WHATSAPP, RANKING DE VENTAS.)
+  - **Daysport:** Tienda de ropa deportiva en línea desarrollada con REACT, TAILWIND, NEST.JS, NEXT.JS, AUTH, PRISMA, POSTGRESQL, DESPLOY(RAILWAY - BACKEND Y FRONTEND), CDN (CLOUDINARY),  . (100% TERMINADA - CON SISTEMA PROPIO DE ENVIOS, PANEL DE CONTROL ADMIN PARA GESTINAR TODO, PAGOS, TICKETS DE CAMBIOS, ENVIOS, EMAIL, WHATSAPP, RANKING DE VENTAS.)
   - **link**:https://www.daysport.com.ar 
 
 <!------>
